@@ -1,2 +1,2 @@
 # art
-logo and other artworks
+Logo and other artworks
