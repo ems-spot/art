@@ -19,3 +19,13 @@ EMS[[:space:]]Inst/EMS-inst.psd filter=lfs diff=lfs merge=lfs -text
 EMS[[:space:]]Inst/WEBSITE.psd filter=lfs diff=lfs merge=lfs -text
 kyxon/invite[[:space:]]card[[:space:]]2.psd filter=lfs diff=lfs merge=lfs -text
 kyxon/invite[[:space:]]card.psd filter=lfs diff=lfs merge=lfs -text
+kyxon/brochure.ai filter=lfs diff=lfs merge=lfs -text
+kyxon/packat-front.ai filter=lfs diff=lfs merge=lfs -text
+kyxon/vertical-logo-with-typo.ai filter=lfs diff=lfs merge=lfs -text
+accuniq/body-composition-1st-table.ai filter=lfs diff=lfs merge=lfs -text
+accuniq/body-composition-complete.ai filter=lfs diff=lfs merge=lfs -text
+kyxon/horizontal-logo-with-typo.ai filter=lfs diff=lfs merge=lfs -text
+kyxon/packat-back.ai filter=lfs diff=lfs merge=lfs -text
+kyxon/packat-inside.ai filter=lfs diff=lfs merge=lfs -text
+kyxon/postcard.ai filter=lfs diff=lfs merge=lfs -text
+kyxon/vertical[[:space:]]logo.ai filter=lfs diff=lfs merge=lfs -text
